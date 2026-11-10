@@ -36,7 +36,9 @@ PDF 版本见：[中国人健康长寿实操指南.pdf](./中国人健康长寿�
 
 ## 版权与署名
 
-Copyright © 2026 JackyKen
+作者：谢导（做自己人生的导演）
+
+Copyright © 2026 谢导
 
 引用或转发时，请注明书名《中国人健康长寿实操指南》及本仓库地址：<https://github.com/JackyKen/china-longevity-guide>
 
