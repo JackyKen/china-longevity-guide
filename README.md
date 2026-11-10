@@ -37,3 +37,5 @@
 Copyright © 2026 JackyKen
 
 引用或转发时，请注明书名《中国人健康长寿实操指南》及本仓库地址：<https://github.com/JackyKen/china-longevity-guide>
+
+作者 X 账号：[@conanfighterai](https://x.com/conanfighterai)
